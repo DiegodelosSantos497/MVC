@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-define('URL','http://localhost/proyectoMVC');
+define('URL','http://localhost/mvc');
 define('WEB_NAME','Proyecto MVC');
 
 /* constantes para la base de datos */
